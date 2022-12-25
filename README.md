@@ -1,4 +1,15 @@
-# food_runs
+Star⭐ the repo if you like what you see😉.
+[![Twitter Follow](https://img.shields.io/twitter/follow/c0d33ngr.svg?style=social)](https://twitter.com/c0d33ngr)
+
+
+## ✨ Requirements
+* Any Operating System (ie. MacOS X, Linux, Windows)
+* Any IDE with Flutter SDK installed (ie. IntelliJ, Android Studio, VSCode etc)
+* A little knowledge of Dart and Flutter
+* A brain to think 🤓🤓
+
+## 🤓 Author(s)
+**Jeffrey Whewhetu** [![Twitter Follow](https://img.shields.io/twitter/follow/c0d33ngr.svg?style=social)](https://twitter.com/c0d33ngr)
 
 A new Flutter project.
 
